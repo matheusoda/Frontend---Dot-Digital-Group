@@ -98,6 +98,10 @@ npm install
 npm run dev
 ```
 
+### 6. Acessar o frontend no link:
+```bash
+http://localhost:5173/
+```
 
 ---
 
